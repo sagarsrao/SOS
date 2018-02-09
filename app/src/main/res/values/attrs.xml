@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Theme">
+        <attr name="icTheme" format="reference" />
+        <attr name="icPickContact" format="reference" />
+        <attr name="backgroundColor" format="color|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ContactPicker">
+        <attr name="cp_textColorPrimary" format="color|reference"/>
+        <attr name="cp_textColorSecondary" format="color|reference"/>
+
+        <attr name="quickContactBadgeStyleWindowLarge" format="reference" />
+        <attr name="cp_badgeLineColor" format="reference" />
+        <attr name="cp_badgeTriangleColor" format="reference" />
+        <attr name="cp_badgeOverlayColor" format="reference" />
+
+        <attr name="cp_actionIconOK" format="reference" />
+        <attr name="cp_actionIconCancel" format="reference" />
+        <attr name="cp_actionIconCheckAll" format="reference" />
+        <attr name="cp_actionIconSearch" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395568038814",
+    "firebase_url": "https://sos-app-cf774.firebaseio.com",
+    "project_id": "sos-app-cf774",
+    "storage_bucket": "sos-app-cf774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395568038814:android:bb8ad808fb547ba8",
+        "android_client_info": {
+          "package_name": "sample.app.com.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395568038814-4fi3042n6agdvadm4tsnm037c6jvisqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sample.app.com.sos",
+            "certificate_hash": "124f4565f5372a740e31146098db4ed2b0a3a7e4"
+          }
+        },
+        {
+          "client_id": "395568038814-nql9r2eek4ajaihsvejikgp40kc5ksid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQP74_VET1bom3v5-PvayknBFNNGAzkjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395568038814-nql9r2eek4ajaihsvejikgp40kc5ksid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

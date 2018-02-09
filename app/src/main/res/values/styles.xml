@@ -1,0 +1,81 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ContactPicker_Theme_Light" parent="@style/Theme.AppCompat.Light">
+        <item name="cp_textColorPrimary">@color/text_color_primary_light</item>
+        <item name="cp_textColorSecondary">@color/text_color_secondary_light</item>
+
+        <item name="cp_badgeLineColor">@color/contact_badge_line_light</item>
+        <item name="cp_badgeTriangleColor">@color/contact_badge_triangle_light</item>
+        <item name="cp_badgeOverlayColor">@color/contact_badge_overlay_light</item>
+
+        <item name="cp_actionIconOK">@drawable/ic_done_black_24dp</item>
+        <item name="cp_actionIconCancel">@drawable/ic_close_black_24dp</item>
+        <item name="cp_actionIconCheckAll">@drawable/ic_apps_black_24dp</item>
+        <item name="cp_actionIconSearch">@drawable/ic_search_black_24dp</item>
+    </style>
+
+    <!-- LIGHT (Dark action bar) Theme -->
+    <style name="ContactPicker_Theme_Light_DarkActionBar" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="cp_textColorPrimary">@color/text_color_primary_light</item>
+        <item name="cp_textColorSecondary">@color/text_color_secondary_light</item>
+
+        <item name="cp_badgeLineColor">@color/contact_badge_line_light</item>
+        <item name="cp_badgeTriangleColor">@color/contact_badge_triangle_light</item>
+        <item name="cp_badgeOverlayColor">@color/contact_badge_overlay_light</item>
+
+        <item name="cp_actionIconOK">@drawable/ic_done_white_24dp</item>
+        <item name="cp_actionIconCancel">@drawable/ic_close_white_24dp</item>
+        <item name="cp_actionIconCheckAll">@drawable/ic_apps_white_24dp</item>
+        <item name="cp_actionIconSearch">@drawable/ic_search_white_24dp</item>
+    </style>
+
+    <!-- DARK Theme -->
+    <style name="ContactPicker_Theme_Dark" parent="@style/Theme.AppCompat">
+        <item name="cp_textColorPrimary">@color/text_color_primary_dark</item>
+        <item name="cp_textColorSecondary">@color/text_color_secondary_dark</item>
+
+        <item name="cp_badgeLineColor">@color/contact_badge_line_dark</item>
+        <item name="cp_badgeTriangleColor">@color/contact_badge_triangle_dark</item>
+        <item name="cp_badgeOverlayColor">@color/contact_badge_overlay_dark</item>
+
+        <item name="cp_actionIconOK">@drawable/ic_done_white_24dp</item>
+        <item name="cp_actionIconCancel">@drawable/ic_close_white_24dp</item>
+        <item name="cp_actionIconCheckAll">@drawable/ic_apps_white_24dp</item>
+        <item name="cp_actionIconSearch">@drawable/ic_search_white_24dp</item>
+    </style>
+    <!-- LIGHT Theme -->
+   <!-- <style name="Theme_Light_Base" parent="@style/ContactPicker_Theme_Light">
+        &lt;!&ndash; ActionBarCompat &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimary_Light</item>
+        <item name="colorAccent">@color/colorAccent_Light</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Light</item>
+
+        <item name="backgroundColor">@color/background_light</item>
+        <item name="icTheme">@drawable/ic_palette_black_36dp</item>
+        <item name="icPickContact">@drawable/ic_person_add_black_36dp</item>
+    </style>
+
+    <style name="Theme_Light" parent="@style/Theme_Light_Base"/>
+
+    &lt;!&ndash; DARK Theme &ndash;&gt;
+    <style name="Theme_Dark_Base" parent="@style/ContactPicker_Theme_Dark">
+        &lt;!&ndash; ActionBarCompat &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <item name="backgroundColor">@color/background_dark</item>
+        <item name="icTheme">@drawable/ic_palette_white_36dp</item>
+        <item name="icPickContact">@drawable/ic_person_add_white_36dp</item>
+    </style>
+
+    <style name="Theme_Dark" parent="@style/Theme_Dark_Base"/>-->
+</resources>

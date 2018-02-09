@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorPrimary">#ff0000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimary_light">#FFE0B2</color>
+    <color name="colorPrimaryDark_light">#FFA726</color>
+    <color name="colorAccent_light">#424242</color>
+    <color name="background_light">#FFF3E0</color>
+
+    <!-- Dark colors -->
+    <color name="colorPrimary_dark">#2E7D32</color>
+    <color name="colorPrimaryDark_dark">#1B5E20</color>
+    <color name="colorAccent_dark">#FAFAFA</color>
+    <color name="background_dark">#263238</color>
+
+    <color name="colorAccent_Light">#FF1</color>
+    <color name="colorPrimary_Light">#434343</color>
+    <color name="colorPrimaryDark_Light">#ff07</color>
+
+
+
+    <color name="list_divider">#ff0000</color>
+    <color name="list_item_selected_state">#F4F6F6</color>
+    <color name="list_item_normal_state">#FFFFFF</color>
+
+    <!-- Light Colors -->
+    <color name="text_color_primary_light">#FF2</color>
+    <color name="text_color_secondary_light">#FFBD</color>
+    <color name="contact_badge_line_light">#ffffffff</color>
+    <color name="contact_badge_triangle_light">#cc1f1f1f</color>
+    <color name="contact_badge_overlay_light">#aa888888</color>
+
+    <!-- Dark Colors -->
+    <color name="text_color_primary_dark">#FFFAFAFA</color>
+    <color name="text_color_secondary_dark">#FF9E9E9E</color>
+    <color name="contact_badge_line_dark">#ff000000</color>
+    <color name="contact_badge_triangle_dark">#cc888888</color>
+    <color name="contact_badge_overlay_dark">#aa888888</color>
+</resources>

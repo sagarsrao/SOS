@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="message">Message</string>
+    <string name="choose_contact">Choose Contact</string>
+    <string name="need_help">Need Help!!!</string>
+    <string name="create_contact">Create Contact</string>
+    <string name="mid">menu_item_delete</string>
+    <string name="pick_contacts">Pick contact(s)</string>
+    <string name="picked_contacts">Picked contact(s)</string>
+
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_denied_contacts">The contact picker won\'t work without this permission. Are you sure you want to deny this permission?</string>
+    <string name="permission_deny">Deny</string>
+    <string name="permission_retry">Re-try</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+
+    <string name="cp_contact_tab_title">Contacts</string>
+    <string name="cp_group_tab_title">Groups</string>
+
+    <string name="cp_no_contacts">No Contacts</string>
+    <string name="cp_no_groups">No Groups</string>
+
+    <plurals
+        name="cp_group_description">
+        <item quantity="one">(%1$d contact)</item>
+        <item quantity="other">(%1$d contacts)</item>
+    </plurals>
+
+    <string name="cp_actionmode_selected">%d selected</string>
+
+    <string name="cp_limit_reached">You can\'t pick more than %d contacts!</string>
+    <string name="send">SEND</string>
+
+</resources>
